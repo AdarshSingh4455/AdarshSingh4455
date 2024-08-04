@@ -1,4 +1,4 @@
-<img align = "Top" alt="Coding" width="1000" height="300" src = "https://github.com/AdarshSingh4455/AdarshSingh4455/blob/main/ADARSH%20SINGH%20(1).png?raw=true">
+<img align = "Top" alt="Coding" width="1000" height="300" src = "https://github.com/AdarshSingh4455/AdarshSingh4455/blob/main/ADARSH%20SINGH.png">
 <h1 align="center">Hi 👋, I'm Adarsh Singh</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
