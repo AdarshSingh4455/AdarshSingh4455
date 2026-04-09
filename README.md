@@ -1,25 +1,152 @@
-<img align = "Top" alt="Coding" width="1000" height="300" src = "https://github.com/AdarshSingh4455/AdarshSingh4455/blob/main/ADARSH%20SINGH.png">
+<img align="top" alt="Coding Banner" width="100%" height="300" src="https://github.com/AdarshSingh4455/AdarshSingh4455/blob/main/ADARSH%20SINGH.png">
+
 <h1 align="center">Hi 👋, I'm Adarsh Singh</h1>
-<h3 align="center">A Passionate Software Engineer from India</h3>
+<h3 align="center">Software Developer | Full Stack Enthusiast | Problem Solver</h3>
 
-<img align = "right" alt="Coding" width="400" src = "https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshsingh4455&label=Profile%20views&color=0e75b6&style=flat" alt="adarshsingh4455" /> </p>
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
-- 📫 How to reach me **adarsh04455@gmail.com**
-
-- ⚡ **Curious To Learn New Things**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adarsh-singh4455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-singh-18709182b" height="30" width="40" /></a>
-<a href="https://instagram.com/thakur_sahab4455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thakur_sahab4455" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=adarshsingh4455&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshsingh4455&show_icons=true&locale=en&layout=compact" alt="adarshsingh4455" /></p> <br><br>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshsingh4455&show_icons=true&locale=en" alt="adarshsingh4455" /></p>
+* 🎓 **B.Tech Student** passionate about building real-world applications
+* 💻 Currently developing **ERP Management System** and Full Stack Web Applications
+* 🌱 Learning **Node.js, Express, REST APIs, and Backend Development**
+* 🧠 Interested in **Software Engineering, System Design, and Problem Solving**
+* ⚡ Focused on improving coding skills and building scalable systems
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshsingh4455&" alt="adarshsingh4455" /></p>
+---
+
+## 🏷️ Professional Headline (Top Line)
+
+<h3 align="center">
+B.Tech Student | Full Stack Developer | Backend Enthusiast
+</h3>
+
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,js,python" />
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🏫 ERP LPS Convent Management System
+
+* Student Management
+* Attendance Tracking
+* Teacher Management
+* Leave Management
+* Result System
+* CSV Export Functionality
+
+**Tech Stack:**
+
+Node.js | Express | MySQL | HTML | CSS | JavaScript
+
+---
+
+### 🖐️ Hand Gesture Virtual Mouse
+
+* Control mouse using hand gestures
+* Scroll, click, move cursor using camera
+* Real-time hand tracking
+
+**Tech Stack:**
+
+Python | MediaPipe | OpenCV | PyAutoGUI
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AdarshSingh4455&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=AdarshSingh4455&theme=tokyonight&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshSingh4455&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AdarshSingh4455&theme=algolia&no-frame=true&margin-w=5" />
+
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshsingh4455&theme=react-dark" />
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+
+<a href="mailto:adarsh04455@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://linkedin.com/in/adarsh-singh4455">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://instagram.com/thakur_sahab4455">
+<img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram" />
+</a>
+
+</p>
+
+---
+
+## 💡 Quote
+
+"Consistency beats talent when talent doesn't work hard."
+
+---
