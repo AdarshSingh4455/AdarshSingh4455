@@ -1,9 +1,7 @@
 <img align="top" alt="Coding Banner" width="100%" height="300" src="https://github.com/AdarshSingh4455/AdarshSingh4455/blob/main/ADARSH%20SINGH.png">
 
 <h1 align="center">Hi 👋, I'm Adarsh Singh</h1>
-<h3 align="center">Software Developer | Full Stack Enthusiast | Problem Solver</h3>
-
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
+<h3 align="center">Software Developer | Salesforce Developer | Problem Solver</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=adarshsingh4455&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -11,24 +9,24 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-* 🎓 **B.Tech Student** passionate about building real-world applications
-* 💻 Currently developing **ERP Management System** and Full Stack Web Applications
-* 🌱 Learning **Node.js, Express, REST APIs, and Backend Development**
-* 🧠 Interested in **Software Engineering, System Design, and Problem Solving**
-* ⚡ Focused on improving coding skills and building scalable systems
+*  **B.Tech Student** passionate about building real-world applications
+*  Currently developing **ERP Management System** and Full Stack Web Applications
+*  Learning **Node.js, Express, REST APIs, and Backend Development**
+*  Interested in **Software Engineering, System Design, and Problem Solving**
+*  Focused on improving coding skills and building scalable systems
 
 ---
 
-## 🏷️ Professional Headline (Top Line)
+## Professional Headline
 
 <h3 align="center">
 B.Tech Student | Full Stack Developer | Backend Enthusiast
 </h3>
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming Languages
 
@@ -56,9 +54,9 @@ B.Tech Student | Full Stack Developer | Backend Enthusiast
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🏫 ERP LPS Convent Management System
+### ERP LPS Convent Management System
 
 * Student Management
 * Attendance Tracking
@@ -73,7 +71,7 @@ Node.js | Express | MySQL | HTML | CSS | JavaScript
 
 ---
 
-### 🖐️ Hand Gesture Virtual Mouse
+### Hand Gesture Virtual Mouse
 
 * Control mouse using hand gestures
 * Scroll, click, move cursor using camera
@@ -85,7 +83,7 @@ Python | MediaPipe | OpenCV | PyAutoGUI
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
 
@@ -108,7 +106,7 @@ Python | MediaPipe | OpenCV | PyAutoGUI
 ---
 
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
 
@@ -118,7 +116,7 @@ Python | MediaPipe | OpenCV | PyAutoGUI
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p>
 
@@ -130,15 +128,19 @@ Python | MediaPipe | OpenCV | PyAutoGUI
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://instagram.com/thakur_sahab4455">
-<img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram" />
+<a href="https://leetcode.com/adarsh004455/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+</a>
+
+<a href="https://github.com/AdarshSingh4455/Portfolio.io">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" />
 </a>
 
 </p>
 
 ---
 
-## 💡 Quote
+## Quote
 
 "Consistency beats talent when talent doesn't work hard."
 
