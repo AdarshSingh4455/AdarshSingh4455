@@ -89,31 +89,24 @@ Python | MediaPipe | OpenCV | PyAutoGUI
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdarshSingh4455&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdarshSingh4455&show_icons=true&theme=tokyonight" />
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=AdarshSingh4455&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=AdarshSingh4455&theme=tokyonight" />
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshSingh4455&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdarshSingh4455&layout=compact&theme=tokyonight" />
 
 </p>
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AdarshSingh4455&theme=algolia&no-frame=true&margin-w=5" />
-
-</p>
 
 ## 📈 Contribution Graph
 
