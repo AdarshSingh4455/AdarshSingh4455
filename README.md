@@ -3,12 +3,17 @@
 <h1 align="center">Hi 👋, I'm Adarsh Singh</h1>
 <h3 align="center">Software Developer | Salesforce Developer | Problem Solver</h3>
 
-<p align="left">
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=26&duration=2000&pause=800&color=00C3FF&center=true&vCenter=true&width=800&lines=Building+Real+World+Systems;Backend+Focused+Developer;ERP+System+Creator;Always+Learning+New+Tech🚀" />
+  
+  <br/>
+</div>
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=adarshsingh4455&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
-
 ## About Me
 
 *  **B.Tech Student** passionate about building real-world applications
@@ -18,12 +23,6 @@
 *  Focused on improving coding skills and building scalable systems
 
 ---
-
-## Professional Headline
-
-<h3 align="center">
-B.Tech Student | Full Stack Developer | Backend Enthusiast
-</h3>
 
 
 ## Tech Stack
@@ -83,36 +82,37 @@ Python | MediaPipe | OpenCV | PyAutoGUI
 
 ---
 
-## GitHub Statistics
+## ⚡ GitHub Command Center
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdarshSingh4455&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdarshSingh4455&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00c3ff&icon_color=00c3ff&text_color=ffffff" height="180" width="45%"/>
 
-</p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdarshSingh4455&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00c3ff&text_color=ffffff" height="180" width="45%"/>
 
-<p align="center">
+</div>
 
-<img src="https://streak-stats.demolab.com?user=AdarshSingh4455&theme=tokyonight" />
+<br/>
 
-</p>
+<div align="center">
 
-<p align="center">
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=AdarshSingh4455&theme=tokyonight&hide_border=true&background=0f172a&ring=00c3ff&fire=00c3ff&currStreakLabel=00c3ff" width="90%"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdarshSingh4455&layout=compact&theme=tokyonight" />
+</div>
 
-</p>
-
----
-
+<br/>
 
 ## Contribution Graph
+---
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshsingh4455&theme=react-dark" />
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshsingh4455&theme=tokyo-night&hide_border=true&area=true&bg_color=0f172a&color=00c3ff&line=00c3ff&point=ffffff"/>
 
-</p>
+</div>
+
 
 ---
 
