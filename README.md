@@ -18,8 +18,8 @@
 
 *  **B.Tech Student** passionate about building real-world applications
 *  Currently developing **ERP Management System** and Full Stack Web Applications
-*  Learning **Node.js, Express, REST APIs, and Backend Development**
-*  Interested in **Software Engineering, System Design, and Problem Solving**
+*  Learning **Node.js, Express, REST APIs and Backend Development**
+*  Interested in **Software Engineering, System Design and Problem Solving**
 *  Focused on improving coding skills and building scalable systems
 
 ---
