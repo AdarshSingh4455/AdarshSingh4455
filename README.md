@@ -86,9 +86,9 @@ Python | MediaPipe | OpenCV | PyAutoGUI
 
 <div align="center">
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdarshSingh4455&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00c3ff&icon_color=00c3ff&text_color=ffffff" height="180" width="45%"/>
+  <img src="./profile/github-stats.svg" height="180" width="45%"/>
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdarshSingh4455&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00c3ff&text_color=ffffff" height="180" width="45%"/>
+  <img src="./profile/top-langs.svg" height="180" width="45%"/>
 
 </div>
 
@@ -96,8 +96,7 @@ Python | MediaPipe | OpenCV | PyAutoGUI
 
 <div align="center">
 
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=AdarshSingh4455&theme=tokyonight&hide_border=true&background=0f172a&ring=00c3ff&fire=00c3ff&currStreakLabel=00c3ff" width="90%"/>
+  <img src="./profile/streak.svg" width="90%"/>
 
 </div>
 
